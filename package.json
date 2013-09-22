@@ -1,0 +1,25 @@
+{
+  "name": "ep_eplmgmt",
+  "version": "0.1.2",
+  "description": "Displays a button that will open the Eplmgmt menu",
+  "homepage": "https://github.com/piratenfraktion-nrw/ep_eplmgmt",
+  "keywords": [
+    "etherpad",
+    "plugin",
+    "eplmgmt",
+    "button"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/piratenfraktion-nrw/ep_eplmgmt.git"
+  },
+  "author": {
+    "name": "vileda",
+    "email": "vileda@piratenfraktion-nrw.de"
+  },
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/piratenfraktion-nrw/ep_eplmgmt/issues"
+  }
+}

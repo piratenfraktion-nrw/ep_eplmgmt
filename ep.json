@@ -1,0 +1,10 @@
+{ "parts": [
+    { "name": "pushbutton"
+    , "hooks": { "eejsBlock_editbarMenuLeft": "ep_eplmgmt/index"
+               }
+    , "client_hooks":
+      { "documentReady": "ep_eplmgmt/static/js/eplmgmt_button.js"
+      }
+    }
+  ]
+}
